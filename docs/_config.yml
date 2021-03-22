@@ -22,8 +22,8 @@ title: "AI & ML for the Arts"
 email: nathan.gammill@pcc.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Course page for AIML for the Arts, Spring 2021.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://staysh.github.io/aiml-spring-2021/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/aiml-spring-2021" # the subpath of your site, e.g. /blog
+url: "https://staysh.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  staysh
 
