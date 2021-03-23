@@ -21,6 +21,8 @@ Links to downloads with installation guides
 * [RunwayML](https://app.runwayml.com)
 	* Does not require installation, but does require *registration*
 	* You get $10 of GPU credits when you register which should last for the term
+* [ZIG sim](https://1-10.github.io/zigsim/getting-started.html)
+	*iOS or Android (not Pro version)
 * [ffmpeg](https://www.ffmpeg.org)
 * [python and pip](https://pip.pypa.io/en/stable/installing/)
 	* Note: you likely already have this in your OS
