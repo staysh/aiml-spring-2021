@@ -30,14 +30,14 @@ Links to downloads with installation guides
 * [pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html)
 	* This might be getting out of some comfort zones, we will go over on Wed 3/31
 	* If you have python and pip, run:
-	'''
+	```
 	pip install pandas
-	'''
+	```
 * [jupyter](https://jupyter.org/install)
 	* jupyter lab is recommended as it includes "notebooks"
-	'''
+	```
 	pip install jupyterlab
-	'''
+	```
 
 \* Note: "Required" is a fuzzy term in this course. The software is required to work through
 labs on your home machine, but are not necessary to complete the course. If you are taking the course just for more theoretical acquaintance with AI/ML, alternative assignments can be made available.
