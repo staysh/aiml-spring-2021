@@ -21,16 +21,6 @@ the course home page.
 	* *Reading Assigned: "What is AI?"*
 
 ### Week 2 (April 5th and 7th)
-* **Session 1**
-	* Data
-	* Downloading data
-	* Generating data
-	* Formatting data
-* **Session 2**
-	* **Lab** Data (Python/Jupyter)
-	* *Reading Assigned: "How does it learn?"*
-
-### Week 3 (April 12th and 14th)
 * **Session 1** 
 	* Models, training, i/o
 	* Real-time input with wekinator
@@ -41,7 +31,7 @@ the course home page.
 	* *First Reading response due*
 	* *Reading Assigned: TBA*
 
-### Week 4 (April 19th and 21st)
+### Week 3 (April 12th and 14th)
 * **Session 1**
 	* Bias
 	* Representation in data
@@ -50,7 +40,7 @@ the course home page.
 	* **Lab** Regression
 	* *Second Reading Response Due*
 
-### Week 5 (April 26th and 28th)
+### Week 4 (April 19th and 21st)
 * **Session 1**
 	* Into to working with time
 	* Markov Chains
@@ -59,14 +49,14 @@ the course home page.
 * **Session 2**
 	* **Lab** Markov Chains
 
-### Week 6 (May 3rd and 5th)
+### Week 5 (April 26th and 28th)
 * **Session 1**
 	* **Lab** Dynamic Time Warping
 * **Session 2**
 	* RunwayML
 	* **Lab** Deepfakes
 
-### Week 7 (May 10th and 12th)
+### Week 6 (May 3rd and 5th)
 * **Session 1**
 	* Chaining models
 	* Training
@@ -76,6 +66,16 @@ the course home page.
 	* Developing locally
 	* Deploying to the cloud
 	* **Lab** Chaining models
+
+### Week 7 (May 10th and 12th)
+* **Session 1**
+	* Data
+	* Downloading data
+	* Generating data
+	* Formatting data
+* **Session 2**
+	* **Lab** Data (Python/Jupyter)
+	* *Reading Assigned: "How does it learn?"*
 
 ### Week 8 (May 17th and 19th)
 * **Session 1**
