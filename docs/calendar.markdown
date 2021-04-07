@@ -28,7 +28,6 @@ the course home page.
 	* more OSC
 * **Session 2**
 	* **Lab** Classification (Wekinator)
-	* *First Reading response due*
 	* *Reading Assigned: TBA*
 
 ### Week 3 (April 12th and 14th)
@@ -38,7 +37,7 @@ the course home page.
 * **Session 2**
 	* Regression
 	* **Lab** Regression
-	* *Second Reading Response Due*
+	* *First Reading response due*
 
 ### Week 4 (April 19th and 21st)
 * **Session 1**
@@ -48,6 +47,7 @@ the course home page.
 	* LSTM / RNN
 * **Session 2**
 	* **Lab** Markov Chains
+	* *Second Reading Response Due*
 
 ### Week 5 (April 26th and 28th)
 * **Session 1**
