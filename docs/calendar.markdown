@@ -28,7 +28,6 @@ the course home page.
 	* more OSC
 * **Session 2**
 	* **Lab** Classification (Wekinator)
-	* *Reading Assigned: TBA*
 
 ### Week 3 (April 12th and 14th)
 * **Session 1**
@@ -38,6 +37,7 @@ the course home page.
 	* Regression
 	* **Lab** Regression
 	* *First Reading response due*
+	* *Reading Assigned: "How does it learn?"*
 
 ### Week 4 (April 19th and 21st)
 * **Session 1**
@@ -47,7 +47,6 @@ the course home page.
 	* LSTM / RNN
 * **Session 2**
 	* **Lab** Markov Chains
-	* *Second Reading Response Due*
 
 ### Week 5 (April 26th and 28th)
 * **Session 1**
@@ -55,6 +54,7 @@ the course home page.
 * **Session 2**
 	* RunwayML
 	* **Lab** Deepfakes
+	* *Second Reading Response Due*
 
 ### Week 6 (May 3rd and 5th)
 * **Session 1**
@@ -75,7 +75,7 @@ the course home page.
 	* Formatting data
 * **Session 2**
 	* **Lab** Data (Python/Jupyter)
-	* *Reading Assigned: "How does it learn?"*
+
 
 ### Week 8 (May 17th and 19th)
 * **Session 1**
